@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "build": "rm -rf dist && parcel build src/index.html --no-minify --public-url ./"
+  },
+
+
+  "name": "nav",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:summerWu1031/nav1.git",
+  "author": "summerWu <583314838@qq.com>",
+  "license": "MIT"
+}
